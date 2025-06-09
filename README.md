@@ -68,3 +68,4 @@ npm start
 - [Documentación de Zod](https://zod.dev/)
 - [Ejemplos de Tools](https://docs.llamaindex.ai/en/stable/examples/tools/)
 "# guia-no-hay-nada-" 
+"# -DaleCaraAlAsistente-" 
